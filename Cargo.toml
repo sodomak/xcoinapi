@@ -1,0 +1,7 @@
+[package]
+name = "xcoinapi"
+version = "0.1.0"
+authors = ["sodomak <cancel@cancel.cz>"]
+
+[dependencies]
+curl = "0.4.8"
